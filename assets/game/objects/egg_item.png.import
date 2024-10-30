@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://hx2br03phu0a"
-path="res://.godot/imported/free_chicken_house.png-606e18873fe84e7abd67a40db21e122f.ctex"
+uid="uid://cvk2036ueslje"
+path="res://.godot/imported/egg_item.png-0291200f3437289755007d249d85533e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/objects/free_chicken_house.png"
-dest_files=["res://.godot/imported/free_chicken_house.png-606e18873fe84e7abd67a40db21e122f.ctex"]
+source_file="res://assets/game/objects/egg_item.png"
+dest_files=["res://.godot/imported/egg_item.png-0291200f3437289755007d249d85533e.ctex"]
 
 [params]
 

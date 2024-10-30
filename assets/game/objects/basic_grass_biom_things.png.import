@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ckf1ux1xkr23m"
-path="res://.godot/imported/chest.png-e94d8c1f185943ca71d819e6632a8e4e.ctex"
+uid="uid://ybhhabagjena"
+path="res://.godot/imported/basic_grass_biom_things.png-a28e87a0519dfe28afa1258bab38d57a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/objects/chest.png"
-dest_files=["res://.godot/imported/chest.png-e94d8c1f185943ca71d819e6632a8e4e.ctex"]
+source_file="res://assets/game/objects/basic_grass_biom_things.png"
+dest_files=["res://.godot/imported/basic_grass_biom_things.png-a28e87a0519dfe28afa1258bab38d57a.ctex"]
 
 [params]
 

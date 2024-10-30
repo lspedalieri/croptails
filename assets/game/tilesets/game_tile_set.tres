@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://vq5pqr1g60tr" path="res://tilesets/water.png" id="1_r565l"]
 [ext_resource type="Texture2D" uid="uid://dl0w58kla0wrk" path="res://tilesets/grass.png" id="2_uru8u"]
 [ext_resource type="Texture2D" uid="uid://fcnkdkytes2r" path="res://tilesets/tilled_dirt_wide.png" id="3_20rmi"]
-[ext_resource type="Texture2D" uid="uid://ybhhabagjena" path="res://assets/objects/basic_grass_biom_things.png" id="4_8gxoj"]
+[ext_resource type="Texture2D" uid="uid://ybhhabagjena" path="res://assets/game/objects/basic_grass_biom_things.png" id="4_8gxoj"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_n28f6"]
 texture = ExtResource("1_r565l")
