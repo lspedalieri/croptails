@@ -26,3 +26,4 @@ tile_set = ExtResource("1_kkkmu")
 
 [node name="Player" parent="." instance=ExtResource("2_ig344")]
 position = Vector2(330, 223)
+current_tool = 3
